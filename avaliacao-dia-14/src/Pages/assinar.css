@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+.FormAssinar{
+    display: flex;
+    margin: 2px;
+    text-decoration: none;
+}
+.AssinarBotao{
+    display: flex;
+    margin: 2px;
+    text-decoration: none;
+}

@@ -1,0 +1,28 @@
+.ErroContainer {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.wrapper h1 {
+    font-size: 3rem;
+    
+}
+.wrapper .message {
+    font-size: 1.5rem;
+    text-align: center;
+    width: 60%;
+    
+}
+.ImgError{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,19 @@
+.containerFooter{
+    font-family: sans-serif;
+    background-color: rgba(0,0,0,.2);
+    margin-top: 150px;
+    width: 960px;
+    text-shadow: white 0.1em 0.1em 0.5em;
+}
+.Footer-content{
+    font-size: 20px;
+    font-weight: 400;
+}
+.footerWrap{
+    width: 33%;
+    float: left;
+    text-align: left;
+}
+#copyRight{
+    text-align: center;
+}

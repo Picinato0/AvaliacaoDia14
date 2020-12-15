@@ -1,0 +1,17 @@
+[
+    {
+        "pacotes": "Básico",
+        "itens": "5 Brindes exclusivos",
+        "preco": "10"
+    },
+    {
+        "pacotes": "Avançado",
+        "itens": "7 Brindes exclusivos + bônus",
+        "preco": "20"
+    },
+    {
+        "pacotes": "Mega",
+        "itens": "9 Brindes exclusivos + bônus especial",
+        "preco": "30"
+    }
+]
